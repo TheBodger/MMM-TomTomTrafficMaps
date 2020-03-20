@@ -10,11 +10,11 @@ The Big difference with Google and Bing Maps is that it is free for up to 2,500 
 The module uses the public V5 version of the TOMTOM APIs.
 
 Example maps:<br><br>
-![TomTom Map](./Basic-map-basic-light.png "Example")
-![TomTom Night Map](./Basic-Map-Hybrid-Night.png "Example")
-![TomTom Map with Traffic flow and Incidents](./Map-with-traffic-and-incidents-basic-main.png "Example")
-![TomTom Night Map with Traffic flow and Incidents](./Map-with-traffic-and-incidents-Hybrid-Night.png "Example")
-![TomTom Night Map with Traffic flow](./Map-with-traffic-Hybrid-Night.png "Example")
+[TomTom Map](./Basic-map-basic-light.png "Example")
+[TomTom Night Map](./Basic-Map-Hybrid-Night.png "Example")
+[TomTom Map with Traffic flow and Incidents](./Map-with-traffic-and-incidents-basic-main.png "Example")
+[TomTom Night Map with Traffic flow and Incidents](./Map-with-traffic-and-incidents-Hybrid-Night.png "Example")
+[TomTom Night Map with Traffic flow](./Map-with-traffic-Hybrid-Night.png "Example")
 
 # Configuring the Module
 To use this module, add the following configuration to your `config/config.js` file. In this examle I've chosen Vancouver BC.
