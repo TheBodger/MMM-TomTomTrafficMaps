@@ -70,9 +70,9 @@ Zoom level can be between 0 - 24
 
 - `trafficStyle`: Default `"relative"`
 
-	`absolute`: This reflects the absolute speed.
-	`relative`: This is the speed relative to free-flow, highlighting areas of congestion.
-	`relative-delay`:The relative speed values are different from the ones for the free-flow. This only highlights areas of congestion.
+	`absolute`: This reflects the absolute speed.<br>
+	`relative`: This is the speed relative to free-flow, highlighting areas of congestion.<br>
+	`relative-delay`:The relative speed values are different from the ones for the free-flow. This only highlights areas of congestion.<br>
 
 - `incidentStyle`:  Default `"s1"`
 
